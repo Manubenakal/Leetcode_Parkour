@@ -8,6 +8,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/0074-search-a-2d-matrix) |
 | [0496-next-greater-element-i](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/0883-car-fleet) |
 ## Hash Table
 |  |
@@ -17,11 +18,13 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/0883-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/0883-car-fleet) |
 ## Sorting
 |  |
