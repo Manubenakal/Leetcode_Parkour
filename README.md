@@ -11,6 +11,7 @@
 | [0496-next-greater-element-i](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/0883-car-fleet) |
+| [2262-solving-questions-with-brainpower](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/2262-solving-questions-with-brainpower) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +67,5 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/0368-largest-divisible-subset) |
+| [2262-solving-questions-with-brainpower](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/2262-solving-questions-with-brainpower) |
 <!---LeetCode Topics End-->
