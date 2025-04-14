@@ -75,4 +75,20 @@
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/1656-count-good-triplets) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
