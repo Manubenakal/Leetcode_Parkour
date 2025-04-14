@@ -11,6 +11,7 @@
 | [0496-next-greater-element-i](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/0883-car-fleet) |
+| [1656-count-good-triplets](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/1656-count-good-triplets) |
 | [2262-solving-questions-with-brainpower](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/2262-solving-questions-with-brainpower) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
@@ -70,4 +71,8 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/0368-largest-divisible-subset) |
 | [2262-solving-questions-with-brainpower](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/2262-solving-questions-with-brainpower) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/Manubenakal/Leetcode_Parkour/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
